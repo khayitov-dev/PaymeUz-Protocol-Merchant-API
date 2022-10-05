@@ -42,6 +42,6 @@ python manage.py runserver
 ```
 
 
-Owner: www.khayitovdev.uz
+Owner: https://khayitovdev.uz/
 
 
