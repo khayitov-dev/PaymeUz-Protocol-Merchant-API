@@ -1,0 +1,5 @@
+asgiref==3.5.2
+Django==4.1.2
+djangorestframework==3.14.0
+PaycomUz==3.0
+requests==2.28.1
