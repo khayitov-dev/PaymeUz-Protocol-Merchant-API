@@ -3,6 +3,14 @@
 
 This package helps to integrate [payme.uz](http://payme.uz) and your application is built on [django](https://www.djangoproject.com/).
 
+## Setup project
+
+### 1. Clone or Download zip to yourself
+
+```sh
+https://github.com/khayitov-dev/PaymeUz-Protocol-Merchant-API.git
+```
+
 ### Requirements
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
